@@ -7,3 +7,5 @@ do:  sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.o
 then : yay -S kitty hyprland waybar rofi swaylock waybar
 
 after do: hyprctl reload
+
+put wallpaper and hypr.conf in /home/[your name]/.conf/hypr/
