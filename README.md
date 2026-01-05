@@ -8,4 +8,4 @@ then : yay -S kitty hyprland waybar rofi swaylock waybar
 
 after do: hyprctl reload
 
-put wallpaper and hypr.conf in /home/[your name]/.conf/hypr/
+put wallpaper and hypr.conf in /home/[your name]/.config/hypr/
